@@ -8,7 +8,7 @@
 // Dan, length: 3, index: 3
 // Charlie, length: 7, index: 2
 // Bob, length: 3, index: 1
-// Alice, length: 5, index: 0
+// Alice, length: 5, index: 0  ----------------dsl pas reussi le return des autres boucles-------------
 
 const tab = ['Alice', 'Bob', 'Charlie', 'Dan', 'Eve']    //reussi que la 1er boucle inversé.................................
 
